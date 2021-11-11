@@ -1,0 +1,16 @@
+{
+  "name": "previ-autos",
+  "version": "1.0.0",
+  "description": "creacion de pantalla inicio para previ autos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "html",
+    "js"
+  ],
+  "author": "Gandhy David Amaya Medina",
+  "license": "MIT"
+}
